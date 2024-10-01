@@ -1,2 +1,6 @@
 hello hii
+<<<<<<< HEAD
 new line from work directory
+=======
+new lines
+>>>>>>> c74555f230a79c3587c0384790481083809f2409
